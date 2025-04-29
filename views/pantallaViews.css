@@ -1,11 +1,11 @@
 .pantalla {
-    height: 20rem;
+    height: 18rem;
     background-color: rgb(113, 112, 114);
     padding: 1rem;
 
     font-size: 5rem;
     font-weight: 600;
-    
+
     display: flex;
     align-items: end;
     justify-content: right;
